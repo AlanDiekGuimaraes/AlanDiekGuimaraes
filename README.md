@@ -1,4 +1,4 @@
-### Olá, sou o Alan Diek GFuimarães. 👋
+### Olá, sou o Alan Diek Guimarães. 👋
 
 
 <div align="center">
