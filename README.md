@@ -8,11 +8,13 @@
 | :-: |
  ##
 
+
 <br clear="both">
 <kbd>
+<div align="center">
 <h3 align="center">📞Contato📞</h3>
 
-<div align="center">
+
   <img width="2" />
   <a href="https://www.linkedin.com/in/alandiekguimaraes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/AlanDiekGuimaraes/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
