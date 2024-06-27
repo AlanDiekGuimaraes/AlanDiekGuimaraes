@@ -18,12 +18,10 @@
 <div align="center">
 
   ##
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlanDiekGuimaraes&theme=tokyonight&hide_border=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=AlanDiekGuimaraes&hide_border=true&card_width=338&theme=tokyonight&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDiekGuimaraes&layout=compact&theme=tokyonight&hide_border=true&card_width=338&) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlanDiekGuimaraes&theme=tokyonight&hide_border=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=AlanDiekGuimaraes&hide_border=true&card_width=338&theme=tokyonight&hide_border=true) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDiekGuimaraes&layout=compact&theme=tokyonight&hide_border=true&card_width=338) |
 | :-: | :-: | :-: |
 <br>
-<div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDiekGuimaraes&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
+
   
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlanDiekGuimaraes&theme=tokyonight&hide_border=true ) |
 | :-: |
