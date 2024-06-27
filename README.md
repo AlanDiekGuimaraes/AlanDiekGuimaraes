@@ -16,4 +16,5 @@
   <a href="https://lattes.cnpq.br/9176587951504436" target="_blank"><img src="https://img.shields.io/badge/-Lattes-blue?style=for-the-badge&logo"/></a>
 </div>
 
-https://i.imgur.com/kwV4cAs.png
+
+![](https://i.imgur.com/kwV4cAs.png)
