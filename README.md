@@ -1,11 +1,12 @@
 ### Olá, sou o Alan Diek Guimarães. 👋
 
 
-<div align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlanDiekGuimaraes&show_icons=true&theme=radical"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDiekGuimaraes&layout=compact&theme=radical"/>
-</div>
-<br>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlanDiekGuimaraes&theme=tokyonight&hide_border=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=AlanDiekGuimaraes&hide_border=true&card_width=338&theme=tokyonight&hide_border=true) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlanDiekGuimaraes&langs_count=10&layout=compact&theme=tokyonight&hide_border=true) |
+| :-: | :-: | :-: |
+ 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlanDiekGuimaraes&theme=tokyonight&hide_border=true ) |
+| :-: |
+
 <div align="center">
   <a href="https://www.linkedin.com/in/alandiekguimaraes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.facebook.com/AlanDiekGuimaraes/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
