@@ -19,7 +19,12 @@
   ##
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlanDiekGuimaraes&theme=tokyonight&hide_border=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=AlanDiekGuimaraes&hide_border=true&card_width=338&theme=tokyonight&hide_border=true) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlanDiekGuimaraes&langs_count=10&layout=compact&theme=tokyonight&hide_border=true) |
 | :-: | :-: | :-: |
-
+<br>
+<div align="center">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDiekGuimaraes&layout=compact&theme=radical"/>
+</div>
+<br>
+<div align="center">
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlanDiekGuimaraes&theme=tokyonight&hide_border=true ) |
 | :-: |
 
