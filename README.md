@@ -1,20 +1,25 @@
 
-## Olá, tudo bem, sou o Alan Diek Guimarães. 👋
+## Olá, tudo bem, sou o [Alan Diek Guimarães.](https://github.com/AlanDiekGuimaraes) 👋
 
 #### 🎓 Formado em Gestão da Tecnologia da Informação
 #### 📚 Estudante de Ciência de Dados no SENAI
 
 ## Sobre mim
-Sou um entusiasta da tecnologia sempre em busca de novos conhecimentos. Atualmente, estou focado em aprimorar minhas habilidades em Python e Ciência de Dados. Neste perfil, você encontrará alguns projetos que desenvolvi para melhor compreensão dessas áreas e as atividades que venho realizando na faculdade.
+Sou apaixonado por tecnologia e sempre estou em busca de novos conhecimentos. Atualmente, estou focado em aprimorar minhas habilidades em Python e Ciência de Dados. Neste perfil, você encontrará alguns projetos que desenvolvi para melhor compreensão dessas áreas e as atividades que venho realizando na faculdade.
 
 ## Projetos
 Aqui estão alguns dos projetos em que tenho trabalhado recentemente:
 
-#### Calculadora Básica em Python
+#### [Calculadora Básica em Python](https://github.com/AlanDiekGuimaraes/Calculadora_Basica_Python)
 Uma calculadora que realiza operações de soma, subtração, multiplicação, divisão e exponenciação.
 
+#### [Agenda Telefônica em Python](https://github.com/AlanDiekGuimaraes/Agenda_de_Contatos_Python)
+Uma agenda telefônica simples desenvolvida em Python, que permite adicionar, editar, excluir e buscar contatos, além de importar e exportar os dados para arquivos CSV.
+#### [Web Scraping do instagran do REMAMA](https://github.com/AlanDiekGuimaraes/Primeiro_Semestre_Ciencia_de_Dados/tree/main/Python_Web_Scraping_Selenium)
+Este projeto foi desenvolvido para extrair dados da página do Instagram do REMAMA, com o objetivo de apresentar essas informações durante a apresentação do projeto de extensão universitária.
+
 ## Objetivos
-Estou sempre em busca de novos conhecimentos para agregar valor ao meu trabalho e alcançar uma vaga de estágio na área de dados. Acredito que a prática constante e a minha vontade de aprender serão essenciais para o crescimento profissional.
+Estou sempre em busca de novos conhecimentos para agregar valor ao meu trabalho e alcançar uma vaga de estágio na área de dados. Acredito que a prática constante e a minha vontade de aprender serão essenciais para o meu crescimento profissional.
 
 <br clear="both">
 <div align="center">
