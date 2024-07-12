@@ -1,5 +1,21 @@
 
-### Olá, sou o Alan Diek Guimarães. 👋
+### Olá, tudo bem, sou o Alan Diek Guimarães. 👋
+
+# 🎓 Formado em Gestão da Tecnologia da Informação
+# 📚 Estudante de Ciência de Dados no SENAI
+
+## Sobre mim
+Sou um entusiasta da tecnologia sempre em busca de novos conhecimentos. Atualmente, estou focado em aprimorar minhas habilidades em Python e Ciência de Dados. Neste perfil, você encontrará alguns projetos que desenvolvi para melhor compreensão dessas áreas e as atividades que venho realizando na faculdade.
+
+## Projetos
+Aqui estão alguns dos projetos em que tenho trabalhado recentemente:
+
+# Calculadora Básica em Python
+Uma calculadora que realiza operações de soma, subtração, multiplicação, divisão e exponenciação.
+
+## Objetivos
+Estou sempre em busca de novos conhecimentos para agregar valor ao meu trabalho e alcançar uma vaga de estágio na área de dados. Acredito que a prática constante e a minha vontade de aprender serão essenciais para o crescimento profissional.
+
 <br clear="both">
 <div align="center">
 <kbd>
