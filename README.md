@@ -15,7 +15,7 @@ Uma calculadora que realiza operações de soma, subtração, multiplicação, d
 
 #### [Agenda Telefônica em Python](https://github.com/AlanDiekGuimaraes/Agenda_de_Contatos_Python)
 Uma agenda telefônica simples desenvolvida em Python, que permite adicionar, editar, excluir e buscar contatos, além de importar e exportar os dados para arquivos CSV.
-#### [Web Scraping do instagran do REMAMA](https://github.com/AlanDiekGuimaraes/Primeiro_Semestre_Ciencia_de_Dados/tree/main/Python_Web_Scraping_Selenium)
+#### [Web Scraping no instagran do REMAMA](https://github.com/AlanDiekGuimaraes/Primeiro_Semestre_Ciencia_de_Dados/tree/main/Python_Web_Scraping_Selenium)
 Este projeto foi desenvolvido para extrair dados da página do Instagram do REMAMA, com o objetivo de apresentar essas informações durante a apresentação do projeto de extensão universitária.
 
 ## Objetivos
