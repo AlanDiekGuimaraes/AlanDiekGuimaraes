@@ -1,8 +1,8 @@
 
 ## Olá, tudo bem, sou o [Alan Diek Guimarães.](https://github.com/AlanDiekGuimaraes) 👋
 
-#### 🎓 Formado em Gestão da Tecnologia da Informação
-#### 📚 Estudante de Ciência de Dados no SENAI
+#### 🎓 Formado em Gestão da Tecnologia da Informação pela UNINTER.
+#### 📚 Estudante de Ciência de Dados no SENAI Paulo Antonio Skaf.
 
 ## Sobre mim
 Sou apaixonado por tecnologia e sempre estou em busca de novos conhecimentos. Atualmente, estou focado em aprimorar minhas habilidades em Python e Ciência de Dados. Neste perfil, você encontrará alguns projetos que desenvolvi para melhor compreensão dessas áreas e as atividades que venho realizando na faculdade.
