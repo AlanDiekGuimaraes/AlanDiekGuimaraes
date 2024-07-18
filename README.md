@@ -27,7 +27,7 @@ Estou sempre em busca de novos conhecimentos para agregar valor ao meu trabalho 
   <div align="center">
   <h1 align="center">📞Contato📞</h1>
          <img width="2" />
-         <a href="https://www.linkedin.com/in/alandiekguimaraes/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+         <p><a href="https://www.linkedin.com/in/alandiekguimaraes/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
          <a href="https://www.facebook.com/AlanDiekGuimaraes/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
          <a href="https://www.instagram.com/alandiekguimaraes/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
          <a href="https://steamcommunity.com/id/alandiekguimaraes/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
