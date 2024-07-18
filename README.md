@@ -44,7 +44,6 @@ Estou sempre em busca de novos conhecimentos para agregar valor ao meu trabalho 
  
 | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlanDiekGuimaraes&layout=compact&hide_border=true&card_width=338px&card_height=195px&theme=tokyonight&hide_border=true) |
 | :-: |  
-
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlanDiekGuimaraes&theme=tokyonight&hide_border=true ) |
 | :-: |
 
